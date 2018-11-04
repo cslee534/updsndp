@@ -10,3 +10,4 @@ https://www.programiz.com/python-programming/methods/built-in/divmod
 https://docs.python.org/2/library/calendar.html
 
 Updating for section 2
+Updating for section 3
